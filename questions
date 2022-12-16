@@ -1,0 +1,15 @@
+a. Using Numpy, write a basic array of operations on single array to add x to each element of array and subtract y from each element of array. 
+b. Using Numpy, write a program to add, subtract and multiply two matrices. 
+c. Write a Python program to do the following operations: Library: NumPy
+i)	Create multi-dimensional arrays and find its shape and dimension 
+ii)	Create a matrix full of zeros and ones 
+iii)	Reshape and flatten data in the array 
+iv)	Append data vertically and horizontally 
+v)	Apply indexing and slicing on array 
+vi)	Use statistical functions on array - Min, Max, Mean, Median and Standard Deviation 
+vii)	Dot and matrix product of two arrays 
+viii)	Compute the Eigen values of a matrix 
+ix)	Solve a linear matrix equation such as 3 * x0 + x1 = 9, x0 + 2 * x1 = 8 
+x)	Compute the multiplicative inverse of a matrix 
+xi)	Compute the rank of a matrix 
+xii)	 Compute the determinant of an array
